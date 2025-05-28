@@ -2,7 +2,7 @@
 
 > _"Clone today, conquer tomorrow."_  
 
-Welcome to **RiverSide-ish.fm** – an ambitious full-stack clone of [Riverside.fm](https://riverside.fm), but with our own flavor and a healthy dose of caffeine-fueled chaos. We're not just replicating features – we're building something so good it might make Riverside.fm a little nervous 👀.
+Welcome to **SeaSide.fm** – an ambitious full-stack clone of [Riverside.fm](https://riverside.fm), but with our own flavor and a healthy dose of caffeine-fueled chaos. We're not just replicating features – we're building something so good it might make Riverside.fm a little nervous 👀.
 
 
 Whether it stays a clone or evolves into a better, weirder, and way cooler podcasting platform – we’re here for it.
