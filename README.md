@@ -1,4 +1,4 @@
-# 🎙️ RiverSide.fm
+# 🎙️ SeaSide.fm
 
 > _"Clone today, conquer tomorrow."_  
 
